@@ -219,13 +219,6 @@ function isWinner(boardData, winningLine) {
       boardData[winningLine[1]] != '' ||
       boardData[winningLine[2]] != '')
 
-  //console.log(
-  //  boardData[winningLine[0]] +
-  //    ', ' +
-  //    boardData[winningLine[1]] +
-  //    ', ' +
-  //    boardData[winningLine[2]]
-  //)
   if (result) return boardData[winningLine[0]]
   else return ''
 }

@@ -9,11 +9,6 @@
   font-weight: bold;
 }
 
-/* #gameHeader.text-heading-defaullt {
-  font-family: 'Neonderthaw', cursive !important;
-  font-family: 'Short Stack', cursive !important;
-} */
-
 body {
   background-color: rgba(255, 253, 208, 0.5);
   background-image: url(https://i.etsystatic.com/13679384/r/il/44f807/3319015278/il_340x270.3319015278_6v3c.jpg);
@@ -97,7 +92,6 @@ body {
     'gameGrid gameGrid gameGrid right right right'
     'footerArea footerArea footerArea bottom bottom bottom';
   gap: 10px;
-  /* background-image: url(https://i.pinimg.com/736x/e0/21/ac/e021acd0aca668961eddfc3051bdbd82.jpg); */
   padding: 10px;
   background-color: rgba(0, 0, 0, 0);
 }
